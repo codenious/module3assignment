@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(219, 111, 111);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar-header{
+    background-color: cornflowerblue;
+    height: 80px;
+}
+.btn{
+    color: aqua;
+    background-color: chartreuse;
+}
+.p1{
+background-color: green;
+border: 1px solid greenyellow;
+margin-top: 3px;
+padding: 15px;
+}
+.dropdown1{
+    list-style-type: none;
+    
+}
